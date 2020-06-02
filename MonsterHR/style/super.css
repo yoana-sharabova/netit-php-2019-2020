@@ -1,0 +1,35 @@
+/*.logo {
+    display         : inline;
+    width           : 200px;
+    text-transform  : capitalize;
+    font-size       : 20px;
+}*/
+
+/*#admin-header {
+    border-bottom   : solid #dedede 1px;
+    padding         : 5px 15px;
+}*/
+
+/*#admin-header-placeholder {
+    float       : right;
+    background  : mediumpurple;
+}*/
+
+/*
+#admin-header-placeholder:after {
+    clear   : both; 
+}
+*/
+
+/*#admin-header-placeholder ul li {
+    display         : inline-block;
+    padding         : 5px;
+    color           : #fff;
+    text-transform  : capitalize;
+}*/
+
+/*#admin-editor {
+    width       : 500px;
+    margin      : auto;
+    margin-top  : 50px;
+}*/
